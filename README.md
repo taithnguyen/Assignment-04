@@ -20,10 +20,14 @@ Users simply have to either free journal using traditional methods or follow the
 For this project, I utilized participatory observation as well as interviewing the participant. I aimed to find a participant close to the target demographic and asked contextual questions to gain background knowledge and small guides towards the activity. After that, I observed the participants behaviors in the task given and then had follow up questions. The interview was conducted in my home in a quiet room. 
 ## Step 4: Conducting the Research
 Here is the link to the script.
+https://docs.google.com/document/d/1v17hBNiKITOJgc_dQ-5emNa4He7EJw2v-DCd1u7dPbw/edit?usp=sharing
 
-Here is the link to the recording of the interview.
+
+Here is the link to the audio recording of the interview.
+https://drive.google.com/file/d/1DmSGhRkyroxgRH3BDNwtuxll0jsp0vGC/view?usp=sharing
 
 Here is the link to the transcription of the interview. 
-https://docs.google.com/document/d/1v17hBNiKITOJgc_dQ-5emNa4He7EJw2v-DCd1u7dPbw/edit?usp=sharing
+https://docs.google.com/document/d/1LPZ0AR0spwRIbEegKned5WvM9K4wvzwirR2-4rr3WxI/edit?usp=sharing
+
 ## Step 5: Reflection
-Comparing and contrasting this process with the usability testing, I found that this process was much more interesting and interactive. Being able to watch the user complete tasks and answer more open-ended questions seemed more insightful and enjoyable for me. At the same time, the open-endedness made the background research and follow up questions more difficult to formulate. As a result, I learned a lot about my own reasoning for creating this project as well as the user's more broad and holistic thoughts on the project as a whole. Overall, this process proved to be both enjoyable and necessary for the creation of the final product. 
+Comparing and contrasting this process with the usability testing, I found that this process was much more interesting and interactive. Being able to watch the user complete tasks and answer more open-ended questions seemed more insightful and enjoyable for me. At the same time, the open-endedness made the background research and follow up questions more difficult to formulate. As a result, I learned a lot about my own reasoning for creating this project as well as the user's more broad and holistic thoughts on the project as a whole. Some insights that I gleaned from the participant were the overall lack of knowledge about journaling and its potential mental and physical health benefits, the kinds of habits that general user's would like to track, and the potential gains that users predict from beginning journaling. Overall, this process proved to be both enjoyable and necessary for the creation of the final product. 
